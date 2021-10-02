@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = milleunium300@hotmail.com
+	name = David SANTOS
